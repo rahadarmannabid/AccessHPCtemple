@@ -1,4 +1,5 @@
 # Temple HPC Facility Configuration
+![My Remote Image](https://www.giving.temple.edu/s/705/images/editor/1_giving_site/fye2020/thumb/cst_formal_red_black_600.jpg)
 
 ## Resources
 - 16 CPU cores and 
