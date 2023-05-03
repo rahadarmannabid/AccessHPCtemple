@@ -18,7 +18,6 @@
 - Step 6: Within 2/3 business days they will give access after reviewing your documents.
 
 
-
 ## How to access it from your computer?
 
 - Access via vscode:
@@ -72,4 +71,3 @@
 ## Written by:
 
 [Rahad Arman Nabid](https://rahadarmannabid.github.io/rahadarmannabid/index.html)
-
