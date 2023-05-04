@@ -11,12 +11,14 @@
 
 ## Application Process
 
-- Step1: Go to https://www.hpc.temple.edu/ 
-- Step 2: Apply for machine learning or compute or owl nest depending upon your need, all the criteria give different types of features.
-- Step 3:Select Request Access
-- Step 4:Specify your needs e.g.-  filed, description, Resource Requirements, Software, supervisor
-- Step 5: Agree with their terms and conditions
-- Step 6: Within 2/3 business days they will give access after reviewing your documents.
+To gain access to the High-Performance Computing (HPC) resources provided by Temple University, you can follow these steps:
+
+- Visit the HPC website at https://www.hpc.temple.edu/.
+- Choose the appropriate option based on your needs, such as machine learning, computing, or owl nest. Each option offers different features and criteria.
+- Click on "Request Access."
+- Specify your requirements, including your field, a description of your project, resource requirements, required software, and your supervisor's name.
+- Read and agree to the terms and conditions.
+- After submitting your request, your documents will be reviewed, and you should receive access within 2 to 3 business days.
 
 
 ## How to access it from your computer?
